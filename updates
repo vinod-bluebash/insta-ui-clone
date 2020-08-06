@@ -1,0 +1,15 @@
+*Update: *
+Yesterday:
+1. Implement Nesting Navigators
+   - Stack Navigation
+   - Drawer Navigation
+2. Issues in _outdated iOS Simulators_
+Today:
+1. Fix issue in _outdated iOS Simulators_
+2. Update UI in Profile Screen
+3. Update Nested Screens UI
+
+1. Updated Profile Screen
+2. Completed insta-ui-clone using {code}react-native-paper & react-navigation{code}
+3. Nested Navigators File Structure
+4. Exploring {code}react-native-elements{code}
